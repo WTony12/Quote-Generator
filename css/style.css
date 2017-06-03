@@ -1,0 +1,16 @@
+body{
+	background-color: #460000;
+}
+h1, #signature{
+	font-family: Metamorphous;
+	color: gold;
+}
+.btn{
+	font-family: Metamorphous;
+	color: gold;
+	background-color: black;
+}
+.quote{
+	font-family: Metamorphous;
+	color: gold;
+}
